@@ -1,0 +1,3 @@
+[submodule "classTicket"]
+	path = classTicket
+	url = git@github.com:lkbgift/classTicket.git
