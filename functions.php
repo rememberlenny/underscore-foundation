@@ -150,3 +150,5 @@ add_action( 'wp_enqueue_scripts', 'classticket_scripts' );
  * Implement the Custom Header feature
  */
 //require( get_template_directory() . '/inc/custom-header.php' );
+
+require_once('lib/foundation.php'); 
